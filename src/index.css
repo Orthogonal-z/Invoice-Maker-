@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+
+body {
+  background-color: #f1f1f1;
+  color: black;
+  font-family: montserrat;
+}
+
+button {
+  user-select: none;
+}
+label {
+  font-size: x-large;
+  font-weight: 600;
+}
